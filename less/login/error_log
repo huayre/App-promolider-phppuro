@@ -1,0 +1,16 @@
+[06-Apr-2017 19:14:13 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[06-Apr-2017 19:54:07 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[06-Apr-2017 19:54:20 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[06-Apr-2017 20:51:32 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 22
+[06-Apr-2017 20:52:44 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 22
+[07-Apr-2017 09:12:29 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 09:13:01 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 09:14:08 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 09:29:08 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 12:58:43 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 13:04:01 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 13:11:45 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 22
+[07-Apr-2017 17:24:50 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 18:12:14 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 18:12:56 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 10
+[07-Apr-2017 18:21:44 America/Santiago] PHP Fatal error:  Call to undefined function mysql_query() in /home/promolid/public_html/oficina/login/index.php on line 22

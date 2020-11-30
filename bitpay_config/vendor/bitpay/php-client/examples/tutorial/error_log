@@ -1,0 +1,27 @@
+[11-Apr-2019 06:01:11 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[11-Apr-2019 06:08:35 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[11-Apr-2019 06:12:13 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[11-Apr-2019 06:15:06 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[11-Apr-2019 06:18:56 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[11-Apr-2019 06:20:06 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[11-Apr-2019 06:21:14 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[11-Apr-2019 07:11:59 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/sitenow/public_html/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:01:19 UTC] PHP Warning:  require(/home/eyjgu0zpb7gv/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/eyjgu0zpb7gv/public_html/sistema/bitpay config/vendor/bitpay/php-client/examples/tutorial/generateKeys.php on line 5
+[02-Sep-2020 04:01:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/eyjgu0zpb7gv/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/eyjgu0zpb7gv/public_html/sistema/bitpay config/vendor/bitpay/php-client/examples/tutorial/generateKeys.php on line 5
+[02-Sep-2020 04:02:17 UTC] PHP Warning:  require(/home/eyjgu0zpb7gv/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/examples/tutorial/generateKeys.php on line 5
+[02-Sep-2020 04:02:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/eyjgu0zpb7gv/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/examples/tutorial/generateKeys.php on line 5
+[02-Sep-2020 04:04:00 UTC] PHP Warning:  require(/home/eyjgu0zpb7gv/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/examples/tutorial/generateKeys.php on line 5
+[02-Sep-2020 04:04:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/eyjgu0zpb7gv/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/examples/tutorial/generateKeys.php on line 5
+[02-Sep-2020 04:07:24 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:09:33 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:12:33 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:29:22 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:34:33 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:49:55 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:50:06 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 04:50:14 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 05:05:53 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[02-Sep-2020 05:52:32 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[03-Sep-2020 04:04:33 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[03-Sep-2020 07:56:06 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76
+[04-Sep-2020 04:22:19 UTC] PHP Notice:  Undefined offset: 2 in /home/eyjgu0zpb7gv/public_html/sistema/bitpay_config/vendor/bitpay/php-client/src/Bitpay/Client/Response.php on line 76

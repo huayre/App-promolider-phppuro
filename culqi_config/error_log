@@ -1,0 +1,10 @@
+[06-Sep-2020 22:49:16 UTC] PHP Warning:  Illegal string offset 'reference_code' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 32
+[06-Sep-2020 22:49:16 UTC] PHP Warning:  Illegal string offset 'source' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
+[06-Sep-2020 22:49:16 UTC] PHP Warning:  Illegal string offset 'iin' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
+[06-Sep-2020 22:49:16 UTC] PHP Warning:  Illegal string offset 'issuer' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
+[06-Sep-2020 22:49:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
+[08-Sep-2020 18:07:37 UTC] PHP Warning:  Illegal string offset 'reference_code' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 32
+[08-Sep-2020 18:07:37 UTC] PHP Warning:  Illegal string offset 'source' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
+[08-Sep-2020 18:07:37 UTC] PHP Warning:  Illegal string offset 'iin' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
+[08-Sep-2020 18:07:37 UTC] PHP Warning:  Illegal string offset 'issuer' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
+[08-Sep-2020 18:07:37 UTC] PHP Warning:  Illegal string offset 'name' in /home/eyjgu0zpb7gv/public_html/sistema/culqi_config/finalizar_compra_culqi_desde_recarga.php on line 33
